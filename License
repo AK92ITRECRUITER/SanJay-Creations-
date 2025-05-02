@@ -1,0 +1,13 @@
+
+📌 You can create this by adding a new file in your root folder named `README.md`.
+
+---
+
+## 🌍 2. **Deploy Your Website**
+
+### 👉 Option 1: **GitHub Pages**
+
+1. In your `package.json`, add this line (replace with your actual username and repo):
+
+```json
+"homepage": "https://AK92ITRECRUITER.github.io/SanJay-Creations-",
