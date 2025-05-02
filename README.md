@@ -18,3 +18,4 @@ git clone https://github.com/AK92ITRECRUITER/SanJay-Creations-.git
 cd SanJay-Creations-
 npm install
 npm start
+git push origin main
